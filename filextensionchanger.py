@@ -1,4 +1,5 @@
 import sys
+import os
 
 req_version = (3,0)
 cur_version = sys.version_info
